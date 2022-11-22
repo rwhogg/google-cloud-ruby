@@ -25,7 +25,7 @@ module Google
       # # QuerySnapshot
       #
       # A query snapshot object is an immutable representation of query results,
-      # including chnages from the previous snapshot.
+      # including changes from the previous snapshot.
       #
       # See {Query#listen}.
       #
